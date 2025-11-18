@@ -12,6 +12,8 @@ const skills = [
 
   { name: "java", level: 85, category: "backend" },
   { name: "SpringBoot", level: 75, category: "backend" },
+  { name: "Node Js", level: 85, category: "backend" },
+  { name: "Express", level: 90, category: "backend" },
   { name: "MySql", level: 85, category: "backend" },
   { name: "Mongodb", level: 65, category: "backend" },
   { name: "JDBC", level: 90, category: "backend" },
