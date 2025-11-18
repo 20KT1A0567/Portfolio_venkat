@@ -35,7 +35,18 @@ const projects = [
     githubUrl: "https://github.com/20KT1A0567",
   },
   {
-    id: 4,
+  id: 4,
+  title: "Book Store Management System",
+  description:
+    "A simple MERN-based CRUD application that allows users to add new books, update existing books, delete books, and search books based on title, author, or publish year.",
+  image: "/projects/project5.png",
+  tags: ["React", "Node.js", "Express", "MongoDB", "Axios"],
+  demoUrl: "https://book-store-mern18.netlify.app/",
+  githubUrl: "https://github.com/20KT1A0567"
+}
+,
+  {
+    id: 5,
     title: "Weather Application",
     description:
       "A responsive weather forecast app that fetches real-time data using the OpenWeather API with a clean and minimal UI.",
